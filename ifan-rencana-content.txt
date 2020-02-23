@@ -3,9 +3,10 @@ RENCANA KONTEN IFAN
 -javascript
   *ES6
   *Framework Javascript
-   ^ Angular
    ^ React
+-Struktur Data Dasar
 -PHP Framework
- ^ Laravel
+ ^Laravel
 -Interview
 -Vlogs
+-Pyton
