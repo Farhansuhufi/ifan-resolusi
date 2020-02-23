@@ -3,7 +3,10 @@ RENCANA KONTEN IFAN
 -javascript
   *ES6
   *Framework Javascript
+   ^ Vue
 -Struktur Data Dasar
 -PHP Framework
-Interview
-Vlogs
+ ^Laravel
+-Interview
+-Vlogs
+-Pyton
